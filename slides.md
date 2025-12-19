@@ -24,8 +24,6 @@ title: Holiday Cards with Gemini & Firebase
 
 
 ---
-transition: fade-out
----
 
 # The Concept
 
@@ -151,11 +149,20 @@ Combining **Gemini**'s intelligence with **Genkit**'s developer experience and *
   - [Google Gemini](https://deepmind.google/models/gemini)
 
 ---
-layout: end
+layout: center
 ---
 
 # Thank You!
 Questions? Check the [repo](https://github.com/alexastrum/slidev-firebase)!
+
+---
+background: /tech-under-hood.png
+layout: cover
+class: text-white
+theme: seriph
+---
+
+# Under the Hood
 
 ---
 
