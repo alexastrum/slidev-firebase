@@ -156,3 +156,34 @@ layout: end
 
 # Thank You!
 Questions? Check the repo!
+
+---
+
+# Under the Hood: AI Generation
+
+Built with intelligence and speed.
+
+- **Antigravity**: The engine behind the rapid development of this project.
+- **Gemini 3 Flash**: Leveraging Google's latest high-speed, 1M+ context model.
+- **Rapid Prototyping**: From idea to code to presentation in minutes, not hours.
+
+---
+
+# Under the Hood: Sli.dev
+
+Modern scripting for developer presentations.
+
+- **Markdown First**: Content is just Markdown, version-controllable and easy to edit.
+- **Vue Integration**: Uses Vue components directly in your slides for interactive demos (not React, but close enough).
+- **Developer Experience**: Built-in code highlighting and more.
+- **Flexibility**: Complete control over styling with Tailwind CSS and CSS.
+
+---
+
+# Under the Hood: Firebase Hosting
+
+Fast, secure, and free publishing.
+
+- **Firebase CLI**: Deploy with a single command: `firebase deploy`.
+- **Instant**: Deployments are fast and predictable.
+- **Free Tier**: Host this presentation at no cost, no CC required.
