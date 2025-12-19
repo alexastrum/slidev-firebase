@@ -155,7 +155,7 @@ layout: end
 ---
 
 # Thank You!
-Questions? Check the repo!
+Questions? Check the [repo](https://github.com/alexastrum/slidev-firebase)!
 
 ---
 
@@ -165,7 +165,7 @@ Built with intelligence and speed.
 
 - **Antigravity**: The engine behind the rapid development of this project.
 - **Gemini 3 Flash**: Leveraging Google's latest high-speed, 1M+ context model.
-- **Rapid Prototyping**: From idea to code to presentation in minutes, not hours.
+- **Scalable agentic workflow**: From idea to code to presentation in minutes.
 
 ---
 
