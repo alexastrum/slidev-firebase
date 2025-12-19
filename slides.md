@@ -18,6 +18,11 @@ title: Holiday Cards with Gemini & Firebase
   </span>
 </div>
 
+<div class="absolute bottom-5 left-0 right-0 text-center opacity-60 text-[10px] text-white/80">
+  Background image from <a href="https://unsplash.com" target="_blank" class="underline hover:text-white">Unsplash</a>
+</div>
+
+
 ---
 transition: fade-out
 ---
