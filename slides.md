@@ -176,6 +176,18 @@ Built with intelligence and speed.
 
 ---
 
+# Under the Hood: Gemini Best Practices
+
+Optimizing for intelligence and efficiency.
+
+- **System Instructions**: Set the persona and ground rules outside the main prompt.
+- **Structured Output**: Leverage Genkit's schema validation for reliable JSON responses.
+- **Few-Shot Prompting**: Provide examples to guide the model towards the desired tone and format.
+- **Chain of Thought**: Encourage the model to "think" before generating the final message.
+- **Context Management**: Utilizing the 1M+ context window of Gemini 3 Flash for complex data.
+
+---
+
 # Under the Hood: Sli.dev
 
 Modern scripting for developer presentations.
